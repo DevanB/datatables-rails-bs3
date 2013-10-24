@@ -164,19 +164,19 @@ table.display thead th div.DataTables_sort_wrapper span {
 }
 
 .paginate_disabled_previous {
-	background-image: url('/assets/dataTables/back_disabled.jpg');
+	background-image: url('datatables/back_disabled.jpg');
 }
 
 .paginate_enabled_previous {
-	background-image: url('/assets/dataTables/back_enabled.jpg');
+	background-image: url('datatables/back_enabled.jpg');
 }
 
 .paginate_disabled_next {
-	background-image: url('/assets/dataTables/forward_disabled.jpg');
+	background-image: url('datatables/forward_disabled.jpg');
 }
 
 .paginate_enabled_next {
-	background-image: url('/assets/dataTables/forward_enabled.jpg');
+	background-image: url('datatables/forward_enabled.jpg');
 }
 
 
@@ -216,23 +216,23 @@ table.display td.center {
  */
 
 .sorting_asc {
-	background: url('/assets/dataTables/sort_asc.png') no-repeat center right;
+	background: url('datatables/sort_asc.png') no-repeat center right;
 }
 
 .sorting_desc {
-	background: url('/assets/dataTables/sort_desc.png') no-repeat center right;
+	background: url('datatables/sort_desc.png') no-repeat center right;
 }
 
 .sorting {
-	background: url('/assets/dataTables/sort_both.png') no-repeat center right;
+	background: url('datatables/sort_both.png') no-repeat center right;
 }
 
 .sorting_asc_disabled {
-	background: url('/assets/dataTables/sort_asc_disabled.png') no-repeat center right;
+	background: url('datatables/sort_asc_disabled.png') no-repeat center right;
 }
 
 .sorting_desc_disabled {
-	background: url('/assets/dataTables/sort_desc_disabled.png') no-repeat center right;
+	background: url('datatables/sort_desc_disabled.png') no-repeat center right;
 }
 
 
