@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version = Jquery::Datatables::Rails::VERSION
   s.authors = ["Devan Beitel"]
   s.email = ["devan@bham.al"]
-  s.homepage = "https://github.com/DevanB/jquery-datatables-rails"
+  s.homepage = "https://github.com/DevanB/datatables-rails-bs3"
   s.summary = %q{datatables bootstrap 3 for rails}
   s.description = %q{}
 
