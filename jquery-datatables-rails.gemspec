@@ -3,12 +3,12 @@ $:.push File.expand_path("../lib", __FILE__)
 require "jquery/datatables/rails/version"
 
 Gem::Specification.new do |s|
-  s.name = "jquery-datatables-rails"
+  s.name = "datatables-rails-bs3"
   s.version = Jquery::Datatables::Rails::VERSION
-  s.authors = ["Robin Wenglewski"]
-  s.email = ["robin@wenglewski.de"]
-  s.homepage = "https://github.com/rweng/jquery-datatables-rails"
-  s.summary = %q{jquery datatables for rails}
+  s.authors = ["Devan Beitel"]
+  s.email = ["devan@bham.al"]
+  s.homepage = "https://github.com/DevanB/jquery-datatables-rails"
+  s.summary = %q{datatables bootstrap 3 for rails}
   s.description = %q{}
 
   s.files = `git ls-files`.split("\n")
